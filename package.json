@@ -1,6 +1,6 @@
 {
   "name": "convertit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Convert it! The ultimate file conversion toolkit. Create PDFs, Word docs, Excel spreadsheets, and more with a simple, chainable API.",
   "main": "dist/index.js",
