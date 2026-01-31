@@ -329,6 +329,7 @@ const data = [
   { name: 'Charan', email: 'charan@example.com', salary: 91000 },
   { name: 'Sid', email: 'sid@example.com', salary: 75000 },
   { name: 'pruthvi', email: 'pruthvi@example.com', salary: 95000 },
+  { name: 'Ayushman', email: 'ayushman@example.com', salary: 95000 },
 ];
 
 const buffer = await convertit
