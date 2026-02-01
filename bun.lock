@@ -8,6 +8,7 @@
         "@types/pdfkit": "^0.17.4",
         "@types/uuid": "^11.0.0",
         "archiver": "^6.0.1",
+        "convertit": "^1.0.1",
         "csv-parse": "^5.5.2",
         "csv-stringify": "^6.4.4",
         "docx": "^8.5.0",
@@ -247,6 +248,8 @@
     "compress-commons": ["compress-commons@5.0.3", "", { "dependencies": { "crc-32": "^1.2.0", "crc32-stream": "^5.0.0", "normalize-path": "^3.0.0", "readable-stream": "^3.6.0" } }, "sha512-/UIcLWvwAQyVibgpQDPtfNM3SvqN7G9elAPAV7GM0L53EbNWwWiCsWtK8Fwed/APEbptPHXs5PuW+y8Bq8lFTA=="],
 
     "concat-map": ["concat-map@0.0.1", "", {}, "sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg=="],
+
+    "convertit": ["convertit@1.0.1", "", { "dependencies": { "@types/pdfkit": "^0.17.4", "@types/uuid": "^11.0.0", "archiver": "^6.0.1", "csv-parse": "^5.5.2", "csv-stringify": "^6.4.4", "docx": "^8.5.0", "exceljs": "^4.4.0", "jszip": "^3.10.1", "mammoth": "^1.6.0", "pdf-lib": "^1.17.1", "pdfkit": "^0.14.0", "sharp": "^0.33.0", "uuid": "^13.0.0" }, "peerDependencies": { "typescript": ">=5.0.0" }, "optionalPeers": ["typescript"] }, "sha512-ni+hs/Vl6EQfKnA5alPAiiW+Kc+im+u6LCa5hyGSeE1Tr0BuaAzB0ndhYD0sExEcoJ79lGDbvEwS6CIPvQ3iLQ=="],
 
     "core-util-is": ["core-util-is@1.0.3", "", {}, "sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ=="],
 

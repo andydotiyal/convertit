@@ -1,24 +1,24 @@
 {
   "name": "convertit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "Convert it! The ultimate file conversion toolkit. Create PDFs, Word docs, Excel spreadsheets, and more with a simple, chainable API.",
   "main": "dist/index.js",
-  "module": "dist/index.mjs",
+  "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/index.mjs",
+      "import": "./dist/index.js",
       "require": "./dist/index.js",
       "types": "./dist/index.d.ts"
     },
     "./converters": {
-      "import": "./dist/converters/index.mjs",
+      "import": "./dist/converters/index.js",
       "require": "./dist/converters/index.js",
       "types": "./dist/converters/index.d.ts"
     },
     "./transformers": {
-      "import": "./dist/transformers/index.mjs",
+      "import": "./dist/transformers/index.js",
       "require": "./dist/transformers/index.js",
       "types": "./dist/transformers/index.d.ts"
     }
@@ -108,6 +108,7 @@
     "@types/pdfkit": "^0.17.4",
     "@types/uuid": "^11.0.0",
     "archiver": "^6.0.1",
+    "convertit": "^1.0.1",
     "csv-parse": "^5.5.2",
     "csv-stringify": "^6.4.4",
     "docx": "^8.5.0",
